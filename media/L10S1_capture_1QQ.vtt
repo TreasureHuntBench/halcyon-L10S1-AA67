@@ -1,0 +1,15 @@
+WEBVTT
+
+NOTE kind=ledger capture
+NOTE run_ref=L10S1-I8Z6
+
+00:00:00.000 --> 00:00:08.000
+ledger calibration
+
+00:00:08.000 --> 00:00:09.000
+series_id=GC=F
+observation_date=2014-11-05
+rounding_rule=round_nearest_integer
+
+00:00:09.000 --> 00:00:16.000
+ledger readout complete
